@@ -10,7 +10,7 @@
   <!--Body-->
   
 ## 👀 About Me
-  #### :fire: I aim to become a AI Engineer.<br/>
+  <!-- #### :fire: I aim to become a AI Engineer.<br/> -->
   #### :mortar_board: Science in Software Engineering and Information and Communication Engineering
   <br/>
 
